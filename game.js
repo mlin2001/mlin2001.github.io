@@ -172,6 +172,6 @@ Module.expectedDataFileDownloads++;
   }
 
  }
- loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 71, "filename": "/conf.lua"}, {"audio": 1, "start": 71, "crunched": 0, "end": 6037, "filename": "/hit.wav"}, {"audio": 1, "start": 6037, "crunched": 0, "end": 60987, "filename": "/score.wav"}, {"audio": 0, "start": 60987, "crunched": 0, "end": 71867, "filename": "/bit5x3.ttf"}, {"audio": 0, "start": 71867, "crunched": 0, "end": 71986, "filename": "/tools.lua"}, {"audio": 0, "start": 71986, "crunched": 0, "end": 75333, "filename": "/main.lua"}], "remote_package_size": 75333, "package_uuid": "1d2fa698-72af-489a-866e-ada907016125"});
+ loadPackage({"files": [{"audio": 0, "start": 0, "crunched": 0, "end": 71, "filename": "/conf.lua"}, {"audio": 1, "start": 71, "crunched": 0, "end": 6037, "filename": "/hit.wav"}, {"audio": 1, "start": 6037, "crunched": 0, "end": 60987, "filename": "/score.wav"}, {"audio": 0, "start": 60987, "crunched": 0, "end": 71867, "filename": "/bit5x3.ttf"}, {"audio": 0, "start": 71867, "crunched": 0, "end": 71986, "filename": "/tools.lua"}, {"audio": 0, "start": 71986, "crunched": 0, "end": 75362, "filename": "/main.lua"}], "remote_package_size": 75362, "package_uuid": "bc77fa3c-e2be-4dfb-ad1f-b619cd713d49"});
 
 })();
